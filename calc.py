@@ -1,4 +1,4 @@
-# Max Base
+my Max Base
 # https://github.com/BaseMax/MiniCalculatorInterpreter
 import math
 import ply.lex as lex
